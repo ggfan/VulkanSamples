@@ -40,3 +40,4 @@ build-android/external
 .externalNativeBuild
 *.iml
 .vscode/
+**/.cxx
